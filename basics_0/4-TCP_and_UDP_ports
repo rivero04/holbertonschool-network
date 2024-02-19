@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Use the netstat command to view the UDP TCP port
 
 sudo netstat -l
 sudo netstat -p
